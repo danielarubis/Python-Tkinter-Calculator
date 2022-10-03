@@ -1,3 +1,3 @@
-##Desktop calculator with Tkinter
+## Desktop calculator with Tkinter
 
-###Simple desktop calculator project to implement the Python library: Tkinter
+### Simple desktop calculator project to implement the Python library: Tkinter
